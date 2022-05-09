@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Airlines>
+    <AirlinesTime>
+        <Company>air china</Company>
+        <AirlineCode>CA984</AirlineCode>
+        <StartDrome>北京首都机场</StartDrome>
+        <ArriveDrome>上海虹桥机场</ArriveDrome>
+        <StartTime>07:20</StartTime>
+        <ArriveTime>09:30</ArriveTime>
+        <Mode>738</Mode>
+    </AirlinesTime>
+
+    <AirlinesTime>
+        <Company>china eastern</Company>
+        <AirlineCode>MU5130</AirlineCode>
+        <StartDrome>北京首都机场</StartDrome>
+        <ArriveDrome>上海虹桥机场</ArriveDrome>
+        <StartTime>07:30</StartTime>
+        <ArriveTime>09:30</ArriveTime>
+        <Mode>330</Mode>
+    </AirlinesTime>
+
+    <AirlinesTime>
+        <Company>air china</Company>
+        <AirlineCode>CA1858</AirlineCode>
+        <StartDrome>上海虹桥机场</StartDrome>
+        <ArriveDrome>北京首都机场</ArriveDrome>
+        <StartTime>07:55</StartTime>
+        <ArriveTime>10:15</ArriveTime>
+        <Mode>777</Mode>
+    </AirlinesTime>
+
+    <AirlinesTime>
+        <Company>shanghai airlines</Company>
+        <AirlineCode>FM9101</AirlineCode>
+        <StartDrome>上海虹桥机场</StartDrome>
+        <ArriveDrome>北京首都机场</ArriveDrome>
+        <StartTime>08:15</StartTime>
+        <ArriveTime>10:35</ArriveTime>
+        <Mode>767</Mode>
+    </AirlinesTime>
+</Airlines>
